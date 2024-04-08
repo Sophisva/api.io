@@ -4,7 +4,9 @@
         "type": "Dev",
         "project": "Evaluation Driver System",
         "Discription": "Developed an automated payroll calculation system to streamline the process of calculating employee wages before seeking approval from management. The system operates by analyzing employee work logs and computing pay based on hours worked and specific job roles. Data input is facilitated through Excel uploads, enhancing accessibility and usability.",
-        "Technology": "HTML, JavaScript, AJAX, JSON, jQuery, Bootstrap5, PHP, MySQL"
+        "Technology": "HTML, JavaScript, AJAX, JSON, jQuery, Bootstrap5, PHP, MySQL",
+        "img": []
+
     },
     {
         "id": 2,
