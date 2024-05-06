@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "type": "Dev",
+        "project": "Evaluation Driver System",
+        "Discription": "Developed an automated payroll calculation system to streamline the process of calculating employee wages before seeking approval from management. The system operates by analyzing employee work logs and computing pay based on hours worked and specific job roles. Data input is facilitated through Excel uploads, enhancing accessibility and usability.",
+        "Technology": "HTML, JavaScript, AJAX, JSON, jQuery, Bootstrap5, PHP, MySQL",
+        "img": [
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/EvaSys/home.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/EvaSys/listDriver.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/EvaSys/listEvaluation.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/EvaSys/importWorkDate.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/EvaSys/addDriverForEva.png"
+            ]
+
+    },
+    {
+        "id": 2,
+        "type": "Dev",
+        "project": "Tugboat Performance Evaluation System",
+        "Discription": "Developed a comprehensive system for evaluating the performance of tugboats during each towing operation cycle. Leveraged Stimulsoft for generating detailed reports to assess various performance metrics. The system aimed to enhance operational efficiency and decision-making processes within the maritime industry.",
+        "Technology": "HTML, JavaScript, AJAX, JSON, jQuery, Bootstrap5, PHP, MySQL",
+        "img": [
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/TagBoat/homeEva.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/TagBoat/pageSearchResalt.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/TagBoat/reportPDF.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/TagBoat/Resalt.png"
+            ]
+    },
+    {
+        "id": 3,
+        "type": "BI",
+        "project": "Training eUnite",
+        "Discription": "Designed and developed an interactive dashboard using Power BI to analyze employee training data and visualize training participation. The dashboard provides insights into training trends, displaying the number of trained and untrained employees through dynamic graphs and charts. The project aimed to facilitate informed decision-making regarding training initiatives and resource allocation within the organization.",
+        "Technology": "Power BI, DAX, MySQL",
+        "img": [
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/BITraining/all.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/BITraining/selectIT.png"
+            ]
+    },
+    {
+        "id": 4,
+        "type": "Dev",
+        "project": "Expenses System",
+        "Discription": "Developed a comprehensive system for managing and approving off-site work expense reimbursements for employees. The system enables employees to record their expenses, request approval through hierarchical channels, and receive reimbursement. Approval can be granted either through the system interface or via email notification, ensuring efficient and transparent expense management processes.",
+        "Technology": "HTML, JavaScript, AJAX, JSON, jQuery, Tailwind, PHP, MySQL",
+        "img": [
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/ExpensesSys/reqApproval.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/ExpensesSys/searchDoc.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/ExpensesSys/step1_header.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/ExpensesSys/step2.png",
+                "https://raw.githubusercontent.com/Sophisva/api.io/main/img/ExpensesSys/step3.png"
+            ]
+            
+    }
+]
